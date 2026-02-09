@@ -12,7 +12,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # Configuration
-BREVO_API_KEY = "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"
+BREVO_API_KEY = "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"
 BREVO_API_URL = "https://api.brevo.com/v3/contacts"
 
 # Webhook secret (optional, for security)
